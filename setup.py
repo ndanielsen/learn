@@ -8,7 +8,7 @@ config = {
     'author': 'Nathan Danielsen',
     'url': 'URL to get it at.',
     'download_url': 'Where to download it.',
-    'author_email': 'nathan.danielsen@gmail.com',
+    'author_email': 'nathan.danielsen [at] gmail.com',
     'version': '0.1',
     'install_requires': ['nose'],
     'packages': ['learn'],
