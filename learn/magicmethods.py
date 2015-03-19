@@ -62,11 +62,9 @@ class Word(str):
 
 if __name__ == "__main__":
 
-	print "hello"
-
+	print 'hello'
 
 	word1, word2 =  Word("gibberish"), Word("One")
-
 
 	#word3 = Word("Something s")
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python 
 
 """
-Python fundaments because well... just because review is good.
+Python fundamentals because well... just because review is good.
 
 
 """
